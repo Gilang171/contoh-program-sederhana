@@ -1,0 +1,6 @@
+CREATE TABLE Mahasiswa (
+    NIM INT PRIMARY KEY,
+    Nama VARCHAR(50),
+    Jurusan VARCHAR(50),
+    Semester INT
+);
